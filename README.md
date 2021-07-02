@@ -17,7 +17,7 @@ $ npm install forPromise
 $ yarn add forPromise
 ```
 
-or
+или
 
 ```sh
 $ yarn add https://github.com/prohetamine/forPromise
