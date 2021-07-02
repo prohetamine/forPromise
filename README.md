@@ -51,9 +51,9 @@ prototype() // inject array prototype
 })()
 ```
 
-#### <a name="forPromise">forPromise</a>
+#### <a name="for-promise">forPromise</a>
 
-Функция [forPromise](#forPromise) выполняет массив заданных промисов
+Функция [forPromise](#for-promise) выполняет массив заданных промисов
 
 | параметры | значение по-умолчанию | информация |
 | ------ | ------ | ------ |
@@ -144,9 +144,9 @@ prototype() // inject array prototype
 })()
 ```
 
-#### <a name="forPromise">forPromise</a>
+#### <a name="for-promise">forPromise</a>
 
-The [forPromise](#forPromise) function executes an array of specified promises
+The [forPromise](#for-promise) function executes an array of specified promises
 
 | parameters | default value | information|
 | ------ | ------ | ------ |
