@@ -41,7 +41,7 @@ const { prototype, forPromise } = require('forPromise')
 
 
 ```sh
-const { prototype } = require('./index.js')
+const { prototype } = require('forPromise')
 const axios = require('axios')
 
 prototype() // inject array prototype
@@ -67,7 +67,7 @@ prototype() // inject array prototype
 | function | undefined | функция обратного вызова должна возвращать промис |
 
 ```sh
-const { forPromise } = require('./index.js')
+const { forPromise } = require('forPromise')
 const axios = require('axios')
 
 ;(async () => {
