@@ -140,7 +140,7 @@ The [prototype](#prototype) function adds a new forPromise function to the array
 | function | undefined | the callback function should return a promise |
 
 ```sh
-const { prototype } = require('./index.js')
+const { prototype } = require('forPromise')
 const axios = require('axios')
 
 prototype() // inject array prototype
@@ -167,7 +167,7 @@ The [forPromise](#for-promise) function executes an array of specified promises
 
 
 ```sh
-const { forPromise } = require('./index.js')
+const { forPromise } = require('forPromise')
 const axios = require('axios')
 
 ;(async () => {
