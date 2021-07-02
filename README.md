@@ -17,6 +17,12 @@ $ npm install forPromise
 $ yarn add forPromise
 ```
 
+or
+
+```sh
+$ yarn add https://github.com/prohetamine/forPromise
+```
+
 ### Примеры и описание
 
 Подключение модуля
@@ -105,10 +111,16 @@ Install the npm module ```forPromise```
 $ npm install forPromise
 ```
 
-или
+or
 
 ```sh
 $ yarn add forPromise
+```
+
+or
+
+```sh
+$ yarn add https://github.com/prohetamine/forPromise
 ```
 
 ### Examples and description
@@ -116,7 +128,7 @@ $ yarn add forPromise
 Connecting the module
 
 ```sh
-const { prototype, forPromise } = require('forPromise')
+const { prototype, forPromise } = require('forpromise')
 ```
 
 #### <a name="prototype">prototype</a>
