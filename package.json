@@ -1,14 +1,32 @@
 {
   "name": "forpromise",
   "version": "1.0.0",
-  "description": "",
+  "description": "while forPromise",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "directories": {
+    "example": "examples"
   },
-  "author": "",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "follow-redirects": "^1.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node example/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prohetamine/forPromise.git"
+  },
+  "keywords": [
+    "promise",
+    "for",
+    "while"
+  ],
+  "author": "Stas Prohetamine",
   "license": "ISC",
-  "devDependencies": {
-    "axios": "^0.21.1"
-  }
+  "bugs": {
+    "url": "https://github.com/prohetamine/forPromise/issues"
+  },
+  "homepage": "https://github.com/prohetamine/forPromise#readme"
 }
