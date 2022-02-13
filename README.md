@@ -1,3 +1,7 @@
+# forPromise
+
+edit me
+
 ##### lang: [ru](#rulang) [en](#enlang)
 
 
